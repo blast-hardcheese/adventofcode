@@ -1,0 +1,7 @@
+dist/:
+build
+package.conf.inplace
+setup-config
+
+.stack-work/:
+install
